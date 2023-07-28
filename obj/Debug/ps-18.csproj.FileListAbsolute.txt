@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\ps-18 day-16\ps-18\bin\Debug\ps-18.exe.config
+C:\Users\Admin\source\repos\ps-18 day-16\ps-18\bin\Debug\ps-18.exe
+C:\Users\Admin\source\repos\ps-18 day-16\ps-18\bin\Debug\ps-18.pdb
+C:\Users\Admin\source\repos\ps-18 day-16\ps-18\obj\Debug\ps-18.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ps-18 day-16\ps-18\obj\Debug\ps-18.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ps-18 day-16\ps-18\obj\Debug\ps-18.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ps-18 day-16\ps-18\obj\Debug\ps-18.exe
+C:\Users\Admin\source\repos\ps-18 day-16\ps-18\obj\Debug\ps-18.pdb
